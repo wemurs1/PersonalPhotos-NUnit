@@ -84,7 +84,7 @@ Go
   insert into Users
   (Email , [Password])
   VALUES
-  ('test@xunitcourse.com', '123')
+  ('test@nunitcourse.com', '123')
 
   go
   
