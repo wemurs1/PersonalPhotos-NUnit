@@ -54,6 +54,7 @@ public class LoginsController : Controller
 
         if (!string.IsNullOrEmpty(model.ReturnUrl))
             return Redirect(model.ReturnUrl);
+
         return RedirectToAction("Display", "Photos");
     }
 
