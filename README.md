@@ -18,13 +18,13 @@ In this course, you will learn:
 
 This repository is organized by sections corresponding to the course modules. Each section contains code samples, exercises, and additional resources to supplement the course content.
 
-Feel free to explore the code and resources provided here. If you haven't already, enroll in the course on Udemy to access video lectures and detailed explanations.
+Explore the code and resources provided here. If you haven't already, enrol in the course on Udemy to access video lectures and detailed explanations.
 
 ## Get Started
 
-To get started with the course, click the image below:
+To get started with the course, click the link below:
 
-[![Course Image](https://img-c.udemycdn.com/course/750x422/5164934_1c69_2.jpg)](https://www.udemy.com/course/unit-testing-net-applications-with-nunit/?referralCode=19BF374BEE9EB0A185CB)
+https://www.udemy.com/course/unit-testing-net-applications-with-nunit/?referralCode=19BF374BEE9EB0A185CB
 
 ## More Free Courses on YouTube
 
