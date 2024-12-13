@@ -1,12 +1,4 @@
-﻿using System.IO;
-using System.Threading.Tasks;
-using Core.Interfaces;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using PersonalPhotos.Filters;
-using PersonalPhotos.Models;
-
-namespace PersonalPhotos.Controllers;
+﻿namespace PersonalPhotos.Controllers;
 
 public class PhotosController : Controller
 {

@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Http;
-
-namespace PersonalPhotos.Models;
+﻿namespace PersonalPhotos.Models;
 
 public class PhotoUploadViewModel
 {
